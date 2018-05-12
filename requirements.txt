@@ -1,0 +1,12 @@
+zope.interface>=4.4.3
+zope.component>=4.4.1
+zope.configuration>=4.1.0
+zope.interface>=4.5.0
+zope.schema>=4.5.0
+zope.event>=4.3.0
+zope.security>=4.2.2
+zope.intid>=4.3.0
+zc.intid>=2.0.0
+BTrees>=4.5.0
+attrs
+hashids>=1.2.0
