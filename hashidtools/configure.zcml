@@ -14,9 +14,4 @@
         provides="zc.intid.interfaces.IIntIds"
         />
 
-    <utility
-        factory="hashidtools.types.HashIDManager"
-        provides="zc.intid.interfaces.IIntIds"
-        />
-
 </configure>
