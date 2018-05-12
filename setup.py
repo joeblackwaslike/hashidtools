@@ -48,7 +48,7 @@ setup(
         'zope.intid>=4.3.0',
         'zc.intid>=2.0.0',
         'BTrees>=4.5.0',
-        'attrs>=18.2.0.dev0',
+        'attrs>=18.1.0',
         'hashids>=1.2.0',
     ],
     zip_safe=False,
